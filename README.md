@@ -1,4 +1,5 @@
 # voyages
+REMOTE
 
 Costa Rica
 Moorea
