@@ -1,4 +1,5 @@
 # voyages
+LOCAL
 
 Costa Rica
 Moorea
